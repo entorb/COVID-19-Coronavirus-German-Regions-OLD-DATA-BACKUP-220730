@@ -15303,7 +15303,6 @@
   "Cases_New": 15775,
   "Cases_New_Per_Million": 425,
   "Cases_Per_Million": 77222,
-  "Country": "Canada",
   "Date": "2022-01-20",
   "Days_Since_2nd_Death": 675,
   "Deaths": 32118,
@@ -15314,7 +15313,29 @@
   "Deaths_New_Per_Million": 3.67,
   "Deaths_Per_Cases": 0.011,
   "Deaths_Per_Cases_Last_Week": 0.005,
-  "Deaths_Per_Million": 866,
+  "Deaths_Per_Million": 866
+ },
+ {
+  "Cases": 2877590,
+  "Cases_Last_Week": 142162,
+  "Cases_Last_Week_7Day_Percent": -44.1,
+  "Cases_Last_Week_Per_100000": 383.6,
+  "Cases_Last_Week_Per_Million": 3836,
+  "Cases_New": 15822,
+  "Cases_New_Per_Million": 426,
+  "Cases_Per_Million": 77649,
+  "Country": "Canada",
+  "Date": "2022-01-21",
+  "Days_Since_2nd_Death": 676,
+  "Deaths": 32217,
+  "Deaths_Last_Week": 815,
+  "Deaths_Last_Week_7Day_Percent": 21.5,
+  "Deaths_Last_Week_Per_Million": 21.99,
+  "Deaths_New": 99,
+  "Deaths_New_Per_Million": 2.671,
+  "Deaths_Per_Cases": 0.011,
+  "Deaths_Per_Cases_Last_Week": 0.006,
+  "Deaths_Per_Million": 869,
   "Population": 37894799
  }
 ]
