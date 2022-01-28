@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	12020	170	91635	1296	0.0	66.7	7.5
 Saarlouis (Landkreis)	Saarland	193732	20875	204	107751	1053	6.7	68.3	11.5
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	12616	157	89060	1108	4.5	88.7	10.7
 St. Wendel (Landkreis)	Saarland	86458	7146	127	82652	1468	0.0	71.4	12.1
-Berlin Reinickendorf (Bezirk)	Berlin	259720	37773	365	145437	1405	16.2	89.2	21.1
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	38441	356	121562	1125	16.2	89.2	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	29704	256	108809	937	16.2	89.2	
-Berlin Pankow (Bezirk)	Berlin	404187	54220	243	134145	601	16.2	89.2	13.2
-Berlin Neukölln (Bezirk)	Berlin	318509	57399	471	180211	1478	16.2	89.2	41.8
-Berlin Lichtenberg (Bezirk)	Berlin	292005	34232	305	117230	1044	16.2	89.2	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	24230	285	88406	1039	16.2	89.2	8.6
-Berlin Spandau (Bezirk)	Berlin	239374	37105	302	155008	1261	16.2	89.2	23.8
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	33108	455	113416	1558	16.2	89.2	
-Berlin Mitte (Bezirk)	Berlin	374581	66814	381	178369	1017	16.2	89.2	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	48278	187	172909	669	16.2	89.2	23.9
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	50497	492	147956	1441	16.2	89.2	3.7
+Berlin Reinickendorf (Bezirk)	Berlin	259720	37773	365	145437	1405	16.1	89.0	21.1
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	38441	356	121562	1125	16.1	89.0	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	29704	256	108809	937	16.1	89.0	
+Berlin Pankow (Bezirk)	Berlin	404187	54220	243	134145	601	16.1	89.0	13.2
+Berlin Neukölln (Bezirk)	Berlin	318509	57399	471	180211	1478	16.1	89.0	41.8
+Berlin Lichtenberg (Bezirk)	Berlin	292005	34232	305	117230	1044	16.1	89.0	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	24230	285	88406	1039	16.1	89.0	8.6
+Berlin Spandau (Bezirk)	Berlin	239374	37105	302	155008	1261	16.1	89.0	23.8
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	33108	455	113416	1558	16.1	89.0	
+Berlin Mitte (Bezirk)	Berlin	374581	66814	381	178369	1017	16.1	89.0	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	48278	187	172909	669	16.1	89.0	23.9
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	50497	492	147956	1441	16.1	89.0	3.7
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	7564	131	104997	1818	13.6	77.3	7.7
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	16386	266	166030	2695	9.9	93.4	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	7018	160	123090	2806	8.3	91.7	7.8
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	23145	236	106598	1086	4.6	93.5	2
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	4866	54	91284	1013	6.7	100.0	13.2
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	3229	71	80371	1767	6.2	50.0	6.1
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	6869	108	135373	2128	3.7	100.0	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	9731	116	116596	1389	7.8	88.2	8.8
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	9731	116	116596	1389	7.7	90.4	8.8
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	2412	11	70939	323	0.0	66.7	8.3
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	11739	160	89806	1224	0.0	50.0	10.7
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	10261	190	77148	1428	5.9	47.1	11.3
@@ -271,11 +271,11 @@ Rhein-Pfalz-Kreis (Landkreis)	Rheinland-Pfalz	154754	16446	261	106271	1686
 Mainz-Bingen (Landkreis)	Rheinland-Pfalz	211525	17638	257	83384	1214	9.1	100.0	15.2
 Südwestpfalz (Landkreis)	Rheinland-Pfalz	94912	6451	108	67968	1137	0.0	42.9	6.9
 Stuttgart (Stadtkreis)	Baden-Württemberg	630305	72749	601	115418	953	13.8	82.5	30.9
-Böblingen (Landkreis)	Baden-Württemberg	392898	45099	400	114785	1018	9.8	90.2	36.6
+Böblingen (Landkreis)	Baden-Württemberg	392898	45099	400	114785	1018	11.8	90.2	36.6
 Esslingen (Landkreis)	Baden-Württemberg	533617	63497	699	118993	1309	3.6	81.9	
 Göppingen (Landkreis)	Baden-Württemberg	258781	32479	344	125507	1329	9.1	81.8	15.1
 Ludwigsburg (Landkreis)	Baden-Württemberg	544971	62526	646	114732	1185	24.7	96.5	
-Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	52885	495	123769	1158	7.8	68.8	11.0
+Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	52885	495	123769	1158	6.2	73.4	11.0
 Heilbronn (Stadtkreis)	Baden-Württemberg	126458	20608	212	162963	1676	8.7	91.3	18.8
 Heilbronn (Landkreis)	Baden-Württemberg	346363	43175	292	124652	843	8.7	93.5	17.0
 Hohenlohekreis (Landkreis)	Baden-Württemberg	112765	13672	155	121243	1374	28.6	100.0	10.3
