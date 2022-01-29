@@ -78,11 +78,10 @@ df_covid_2020 = (
     df3[0 : 1 * 365]
     .reset_index(drop=True)
     .rename(
-        {
+        columns={
             "Deaths_Covid": "Deaths_Covid_2020",
             "Deaths_Covid_roll": "Deaths_Covid_2020_roll",
         },
-        axis=1,
         errors="raise",
     )
 )
@@ -91,11 +90,10 @@ df_covid_2021 = (
     df3[1 * 365 : 2 * 365]
     .reset_index(drop=True)
     .rename(
-        {
+        columns={
             "Deaths_Covid": "Deaths_Covid_2021",
             "Deaths_Covid_roll": "Deaths_Covid_2021_roll",
         },
-        axis=1,
         errors="raise",
     )
 )
