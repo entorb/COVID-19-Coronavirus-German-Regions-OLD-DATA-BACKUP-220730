@@ -92,7 +92,7 @@ Suhl (Kreisfreie Stadt)	Thüringen	36395	5522	164	151724	4506	3.1	53.1	4.5
 Weimar (Kreisfreie Stadt)	Thüringen	65098	8371	133	128590	2043	7.1	78.6	8.8
 Eichsfeld (Landkreis)	Thüringen	99463	13510	301	135829	3026	19.0	71.4	7.5
 Nordhausen (Landkreis)	Thüringen	82456	8845	93	107269	1127	7.0	73.7	8.0
-Wartburgkreis (Landkreis)	Thüringen	159937	24175	415	151153	2594	17.1	57.3	14.6
+Wartburgkreis (Landkreis)	Thüringen	159937	24175	415	151153	2594	18.3	57.3	14.6
 Unstrut-Hainich-Kreis (Landkreis)	Thüringen	101698	16148	376	158783	3697	0.0	94.1	26.2
 Kyffhäuserkreis (Landkreis)	Thüringen	73522	10348	216	140746	2937	0.0	66.7	11.5
 Schmalkalden-Meiningen (Landkreis)	Thüringen	124241	23613	559	190058	4499	11.9	69.0	10.6
@@ -118,7 +118,7 @@ Northeim (Landkreis)	Niedersachsen	131772	8263	86	62706	652	10.0	70.0	11.4
 Peine (Landkreis)	Niedersachsen	135844	13448	117	98995	861	0.0	78.6	20.2
 Wolfenbüttel (Landkreis)	Niedersachsen	119361	8225	110	68908	921	6.2	75.0	9.0
 Göttingen (Landkreis)	Niedersachsen	323900	20988	331	64797	1021	9.6	87.7	35.8
-Hannover (Landkreis)	Niedersachsen	1155330	128073	1268	110854	1097	8.8	84.8	34.8
+Hannover (Landkreis)	Niedersachsen	1155330	128073	1268	110854	1097	8.6	84.8	34.8
 Diepholz (Landkreis)	Niedersachsen	218072	20599	120	94459	550	0.0	70.6	13.6
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148580	12820	116	86283	780	5.3	75.0	11.9
 Hildesheim (Landkreis)	Niedersachsen	275464	23985	345	87071	1252	5.2	71.4	8.1
@@ -188,7 +188,7 @@ Borken (Kreis)	Nordrhein-Westfalen	371898	46482	333	124985	895	8.6	72.9
 Coesfeld (Kreis)	Nordrhein-Westfalen	220712	19112	111	86592	502	9.7	90.3	24.7
 Recklinghausen (Kreis)	Nordrhein-Westfalen	613599	61118	1137	99605	1853	5.2	75.1	55.4
 Steinfurt (Kreis)	Nordrhein-Westfalen	448197	47030	407	104931	908	4.7	81.1	
-Warendorf (Kreis)	Nordrhein-Westfalen	277417	33016	316	119012	1139	8.0	80.0	15.0
+Warendorf (Kreis)	Nordrhein-Westfalen	277417	33016	316	119012	1139	10.0	78.0	15.0
 Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	333509	41307	457	123855	1370	11.0	91.2	19.7
 Gütersloh (Kreis)	Nordrhein-Westfalen	364818	53173	405	145752	1110	14.6	91.7	37.3
 Herford (Kreis)	Nordrhein-Westfalen	250547	28691	247	114513	985	12.1	79.3	
@@ -290,7 +290,7 @@ Rastatt (Landkreis)	Baden-Württemberg	232091	33368	312	143771	1344	0.0	75.0	26.
 Heidelberg (Stadtkreis)	Baden-Württemberg	158741	14381	83	90594	522	10.6	92.6	20.1
 Mannheim (Stadtkreis)	Baden-Württemberg	309721	41917	420	135337	1356	17.6	85.3	22.8
 Neckar-Odenwald-Kreis (Landkreis)	Baden-Württemberg	143797	18458	184	128361	1279	9.5	66.7	41.3
-Rhein-Neckar-Kreis (Landkreis)	Baden-Württemberg	548233	59008	557	107633	1015	17.5	90.0	13.1
+Rhein-Neckar-Kreis (Landkreis)	Baden-Württemberg	548233	59008	557	107633	1015	18.4	94.7	13.1
 Pforzheim (Stadtkreis)	Baden-Württemberg	126016	22801	300	180937	2380	21.2	78.8	
 Calw (Landkreis)	Baden-Württemberg	160149	24290	238	151671	1486	4.3	87.0	23.1
 Enzkreis (Landkreis)	Baden-Württemberg	199752	27817	319	139257	1596	15.4	76.9	34.2
@@ -323,7 +323,7 @@ Bad Tölz-Wolfratshausen (Landkreis)	Bayern	128212	22538	160	175786	1247	30.8	96
 Dachau (Landkreis)	Bayern	155117	27752	186	178910	1199	15.4	84.6	
 Ebersberg (Landkreis)	Bayern	144091	23325	240	161876	1665	5.0	100.0	
 Eichstätt (Landkreis)	Bayern	133169	17354	134	130315	1006	18.8	85.4	3.6
-Erding (Landkreis)	Bayern	138891	24724	158	178010	1137	11.8	100.0	
+Erding (Landkreis)	Bayern	138891	24724	158	178010	1137	11.1	94.4	
 Freising (Landkreis)	Bayern	180313	27998	180	155274	998	20.0	100.0	49.1
 Fürstenfeldbruck (Landkreis)	Bayern	218740	33129	200	151453	914	0.0	100.0	3.9
 Garmisch-Partenkirchen (Landkreis)	Bayern	88279	12339	122	139772	1381	6.5	83.9	13.7
