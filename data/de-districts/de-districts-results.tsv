@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258386	45621	497	176561	1923	8.6	63.8	18.4
 Nordsachsen (Landkreis)	Sachsen	197444	35187	529	178212	2679	5.5	76.4	12.2
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	10458	143	131789	1802	7.5	60.0	22.9
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	33415	476	140478	2001	7.4	78.6	16.6
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	24996	204	106016	865	8.3	92.2	26.2
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	24996	204	106016	865	6.7	90.4	26.2
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	9545	125	115435	1511	6.7	80.0	24.2
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	22749	297	144698	1889	3.0	63.6	17.4
 Börde (Landkreis)	Sachsen-Anhalt	170567	21432	183	125651	1072	0.0	73.3	26.9
@@ -157,7 +157,7 @@ Bremen (Kreisfreie Stadt)	Bremen	566573	78797	512	139076	903	13.8	96.2
 Bremerhaven (Kreisfreie Stadt)	Bremen	113557	16420	142	144596	1250	17.0	81.1	10.2
 Düsseldorf (Kreisfreie Stadt)	Nordrhein-Westfalen	620523	96483	666	155486	1073	10.7	93.8	
 Duisburg (Kreisfreie Stadt)	Nordrhein-Westfalen	495885	68693	820	138526	1653	11.7	84.4	
-Essen (Kreisfreie Stadt)	Nordrhein-Westfalen	582415	73632	700	126425	1201	8.6	86.1	16.6
+Essen (Kreisfreie Stadt)	Nordrhein-Westfalen	582415	73632	700	126425	1201	8.9	86.1	16.6
 Krefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	226844	32671	227	144024	1000	14.5	79.5	
 Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	259665	31987	287	123185	1105	11.5	89.7	
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170921	21300	287	124618	1679	17.1	94.3	
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	26832	240	123579	1105	8.5	99.1
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	5479	54	102783	1013	0.0	64.7	8.3
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	3797	71	94509	1767	6.2	31.2	59.1
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	7503	108	147868	2128	10.7	92.9	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	11424	116	136881	1389	11.5	86.5	9.9
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	11424	116	136881	1389	11.5	78.8	9.9
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	2996	11	88115	323	11.1	77.8	20.5
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	13610	163	104119	1246	0.0	50.0	12.5
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	11566	190	86959	1428	5.9	58.8	57.4
@@ -275,7 +275,7 @@ Böblingen (Landkreis)	Baden-Württemberg	392898	55179	407	140441	1035	3.9	84.3	
 Esslingen (Landkreis)	Baden-Württemberg	533617	74903	711	140368	1332	6.0	83.1	15.0
 Göppingen (Landkreis)	Baden-Württemberg	258781	38542	346	148936	1337	4.4	51.1	
 Ludwigsburg (Landkreis)	Baden-Württemberg	544971	74516	648	136733	1189	22.6	90.5	43.9
-Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	61061	498	142904	1165	3.1	81.2	28.9
+Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	61061	498	142904	1165	0.0	75.0	28.9
 Heilbronn (Stadtkreis)	Baden-Württemberg	126458	23669	214	187168	1692	14.6	89.6	41.2
 Heilbronn (Landkreis)	Baden-Württemberg	346363	51922	294	149906	848	14.6	95.8	12.1
 Hohenlohekreis (Landkreis)	Baden-Württemberg	112765	16240	155	144016	1374	14.3	100.0	37.5
