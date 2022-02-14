@@ -1,5 +1,5 @@
 Landkreis	Bundesland	Population	Cases	Deaths	Cases_Per_Million	Deaths_Per_Million	DIVI_Intensivstationen_Covid_Prozent	DIVI_Intensivstationen_Betten_belegt_Prozent	DoublingTime_Cases_Last_Week_Per_100000
-Flensburg (Kreisfreie Stadt)	Schleswig-Holstein	89934	9929	54	110403	600	4.8	69.0	
+Flensburg (Kreisfreie Stadt)	Schleswig-Holstein	89934	10030	54	111526	600	4.8	81.0	
 Kiel (Kreisfreie Stadt)	Schleswig-Holstein	246601	24288	147	98491	596	5.6	74.6	
 Lübeck (Kreisfreie Stadt)	Schleswig-Holstein	215846	23738	124	109976	574	5.8	91.7	
 Neumünster (Kreisfreie Stadt)	Schleswig-Holstein	79905	8734	44	109304	550	8.0	72.0	
@@ -20,22 +20,22 @@ Neunkirchen (Landkreis)	Saarland	131172	15841	172	120765	1311	7.7	69.2	23.1
 Saarlouis (Landkreis)	Saarland	193732	28225	208	145690	1073	8.3	66.7	
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	17378	162	122677	1143	3.4	81.2	55.7
 St. Wendel (Landkreis)	Saarland	86458	9538	131	110319	1515	0.0	71.4	12.8
-Berlin Reinickendorf (Bezirk)	Berlin	259720	47503	367	182900	1413	16.4	86.9	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	54362	358	171910	1132	16.4	86.9	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	36991	269	135502	985	16.4	86.9	30.1
-Berlin Pankow (Bezirk)	Berlin	404187	68621	264	169775	653	16.4	86.9	
-Berlin Neukölln (Bezirk)	Berlin	318509	70141	476	220216	1494	16.4	86.9	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	46672	311	159832	1065	16.4	86.9	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	33122	295	120849	1076	16.4	86.9	
-Berlin Spandau (Bezirk)	Berlin	239374	45710	304	190956	1269	16.4	86.9	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	43314	455	148378	1558	16.4	86.9	13.2
-Berlin Mitte (Bezirk)	Berlin	374581	79697	388	212763	1035	16.4	86.9	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	59939	188	214673	673	16.4	86.9	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	60198	492	176380	1441	16.4	86.9	46.6
+Berlin Reinickendorf (Bezirk)	Berlin	259720	47503	367	182900	1413	16.5	87.3	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	54362	358	171910	1132	16.5	87.3	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	36991	269	135502	985	16.5	87.3	30.1
+Berlin Pankow (Bezirk)	Berlin	404187	68621	264	169775	653	16.5	87.3	
+Berlin Neukölln (Bezirk)	Berlin	318509	70141	476	220216	1494	16.5	87.3	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	46672	311	159832	1065	16.5	87.3	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	33122	295	120849	1076	16.5	87.3	
+Berlin Spandau (Bezirk)	Berlin	239374	45710	304	190956	1269	16.5	87.3	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	43314	455	148378	1558	16.5	87.3	13.2
+Berlin Mitte (Bezirk)	Berlin	374581	79697	388	212763	1035	16.5	87.3	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	59939	188	214673	673	16.5	87.3	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	60198	492	176380	1441	16.5	87.3	46.6
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	9444	133	131093	1846	13.4	83.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	19588	269	198474	2725	7.7	86.8	18.3
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	9437	166	165517	2911	30.0	90.0	
-Potsdam (Kreisfreie Stadt)	Brandenburg	182112	29652	264	162822	1449	5.7	74.3	
+Potsdam (Kreisfreie Stadt)	Brandenburg	182112	29652	264	162822	1449	5.7	71.4	
 Barnim (Landkreis)	Brandenburg	187343	28949	330	154524	1761	5.1	91.5	11.3
 Dahme-Spreewald (Landkreis)	Brandenburg	173316	29206	350	168513	2019	14.3	80.0	41.2
 Elbe-Elster (Landkreis)	Brandenburg	101085	20439	361	202196	3571	6.2	75.0	12.2
@@ -71,9 +71,9 @@ Sächsische Schweiz-Osterzgebirge (Landkreis)	Sachsen	244722	61198	1344	250071	5
 Leipzig (Kreisfreie Stadt)	Sachsen	597493	85744	728	143506	1218	8.1	81.7	
 Leipzig (Landkreis)	Sachsen	258386	49503	519	191585	2008	3.4	62.1	
 Nordsachsen (Landkreis)	Sachsen	197444	38602	530	195508	2684	5.5	58.2	43.2
-Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	11610	144	146306	1814	15.0	70.0	
+Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	11610	144	146306	1814	12.5	67.5	
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	37282	477	156735	2005	9.0	85.6	
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	30001	204	127244	865	8.1	94.8	8.2
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	30001	204	127244	865	8.8	96.5	8.2
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	10738	126	129863	1523	0.0	43.8	20.9
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	25399	312	161553	1984	9.1	75.8	28.0
 Börde (Landkreis)	Sachsen-Anhalt	170567	25197	184	147724	1078	0.0	66.7	13.5
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	29937	241	137880	1109	5.7	93.4
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	6001	54	112576	1013	13.3	73.3	
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	4268	71	106232	1767	6.2	56.2	36.9
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	8304	108	163654	2128	21.4	100.0	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	13163	118	157718	1413	11.5	73.1	
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	13163	118	157718	1413	9.6	73.1	
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	3486	12	102526	352	0.0	55.6	37.1
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	15394	162	117767	1239	0.0	75.0	
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	12595	191	94696	1436	6.2	62.5	
@@ -315,7 +315,7 @@ Bodenseekreis (Landkreis)	Baden-Württemberg	217901	33654	252	154446	1156	1.9	59
 Ravensburg (Landkreis)	Baden-Württemberg	285888	44827	196	156799	685	14.1	82.8	9.6
 Sigmaringen (Landkreis)	Baden-Württemberg	130946	21402	137	163441	1046	8.3	83.3	57.4
 Ingolstadt (Kreisfreie Stadt)	Bayern	136952	27420	207	200216	1511	17.4	93.5	
-München (Kreisfreie Stadt)	Bayern	1488202	282280	1740	189678	1169	14.9	88.8	
+München (Kreisfreie Stadt)	Bayern	1488202	282280	1740	189678	1169	14.9	89.0	
 Rosenheim (Kreisfreie Stadt)	Bayern	63591	14278	109	224528	1714	6.8	68.2	
 Altötting (Landkreis)	Bayern	111654	21615	294	193589	2633	24.0	84.0	
 Berchtesgadener Land (Landkreis)	Bayern	106327	23756	162	223423	1523	5.3	94.7	
