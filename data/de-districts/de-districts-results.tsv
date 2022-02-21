@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	17831	173	135936	1318	10.3	76.9
 Saarlouis (Landkreis)	Saarland	193732	31051	210	160278	1083	8.5	72.9	
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	19302	163	136259	1150	4.0	76.6	
 St. Wendel (Landkreis)	Saarland	86458	10626	132	122903	1526	14.3	85.7	
-Berlin Reinickendorf (Bezirk)	Berlin	259720	50366	369	193924	1420	16.4	86.9	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	56780	359	179556	1135	16.4	86.9	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	42351	272	155136	996	16.4	86.9	
-Berlin Pankow (Bezirk)	Berlin	404187	73165	264	181017	653	16.4	86.9	
-Berlin Neukölln (Bezirk)	Berlin	318509	73519	479	230822	1503	16.4	86.9	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	51530	314	176469	1075	16.4	86.9	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	36997	296	134988	1079	16.4	86.9	
-Berlin Spandau (Bezirk)	Berlin	239374	49048	304	204901	1269	16.4	86.9	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	47814	457	163794	1565	16.4	86.9	
-Berlin Mitte (Bezirk)	Berlin	374581	84168	390	224699	1041	16.4	86.9	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	62796	190	224905	680	16.4	86.9	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	63699	519	186638	1520	16.4	86.9	
+Berlin Reinickendorf (Bezirk)	Berlin	259720	50366	369	193924	1420	15.8	87.0	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	56780	359	179556	1135	15.8	87.0	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	42351	272	155136	996	15.8	87.0	
+Berlin Pankow (Bezirk)	Berlin	404187	73165	264	181017	653	15.8	87.0	
+Berlin Neukölln (Bezirk)	Berlin	318509	73519	479	230822	1503	15.8	87.0	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	51530	314	176469	1075	15.8	87.0	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	36997	296	134988	1079	15.8	87.0	
+Berlin Spandau (Bezirk)	Berlin	239374	49048	304	204901	1269	15.8	87.0	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	47814	457	163794	1565	15.8	87.0	
+Berlin Mitte (Bezirk)	Berlin	374581	84168	390	224699	1041	15.8	87.0	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	62796	190	224905	680	15.8	87.0	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	63699	519	186638	1520	15.8	87.0	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	10057	137	139602	1901	9.0	80.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	21193	270	214736	2735	10.7	90.5	43.9
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	10283	171	180356	2999	40.0	100.0	
@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258386	54440	522	210692	2020	7.0	70.2	45.6
 Nordsachsen (Landkreis)	Sachsen	197444	41378	531	209568	2689	1.9	53.7	
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	12802	144	161327	1814	10.5	73.7	
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	40362	482	169684	2026	5.4	81.3	
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	35232	206	149430	873	7.6	89.2	
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	35232	206	149430	873	8.3	91.1	
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	12153	128	146975	1548	18.8	75.0	23.6
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	27520	319	175044	2029	6.1	51.5	
 Börde (Landkreis)	Sachsen-Anhalt	170567	27353	184	160365	1078	0.0	80.0	
@@ -221,7 +221,7 @@ Main-Taunus-Kreis (Landkreis)	Hessen	239264	35644	277	148973	1157	26.9	84.6
 Odenwaldkreis (Landkreis)	Hessen	96754	15549	210	160706	2170	11.1	99.2	
 Offenbach (Landkreis)	Hessen	356542	63124	662	177045	1856	30.4	78.3	
 Rheingau-Taunus-Kreis (Landkreis)	Hessen	187433	26314	200	140391	1067	26.7	93.3	
-Wetteraukreis (Landkreis)	Hessen	310353	45717	587	147306	1891	12.1	97.0	
+Wetteraukreis (Landkreis)	Hessen	310353	45717	587	147306	1891	10.6	97.0	
 Gießen (Landkreis)	Hessen	271667	41848	397	154041	1461	6.9	85.7	
 Lahn-Dill-Kreis (Landkreis)	Hessen	253373	37365	272	147470	1073	4.4	95.6	
 Limburg-Weilburg (Landkreis)	Hessen	172291	25039	316	145329	1834	8.0	90.0	
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	32455	244	149477	1123	3.8	91.5
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	7292	54	136795	1013	6.7	80.0	4.9
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	4767	72	118652	1792	18.8	68.8	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	9033	108	178021	2128	21.4	96.4	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	14488	120	173594	1437	13.5	86.5	
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	14488	120	173594	1437	15.4	86.5	
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	3972	13	116820	382	11.1	66.7	
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	16818	164	128661	1254	0.0	85.7	
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	14830	197	111500	1481	12.5	75.0	4.9
