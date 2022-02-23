@@ -15954,7 +15954,6 @@
   "Cases_New": 9360,
   "Cases_New_Per_Million": 910,
   "Cases_Per_Million": 310004,
-  "Country": "Portugal",
   "Date": "2022-02-20",
   "Days_Since_2nd_Death": 704,
   "Deaths": 20831,
@@ -15965,7 +15964,29 @@
   "Deaths_New_Per_Million": 3.404,
   "Deaths_Per_Cases": 0.007,
   "Deaths_Per_Cases_Last_Week": 0.003,
-  "Deaths_Per_Million": 2026,
+  "Deaths_Per_Million": 2026
+ },
+ {
+  "Cases": 3193178,
+  "Cases_Last_Week": 99455,
+  "Cases_Last_Week_7Day_Percent": -38.1,
+  "Cases_Last_Week_Per_100000": 967.2,
+  "Cases_Last_Week_Per_Million": 9672,
+  "Cases_New": 5789,
+  "Cases_New_Per_Million": 563,
+  "Cases_Per_Million": 310567,
+  "Country": "Portugal",
+  "Date": "2022-02-21",
+  "Days_Since_2nd_Death": 705,
+  "Deaths": 20866,
+  "Deaths_Last_Week": 301,
+  "Deaths_Last_Week_7Day_Percent": -2.0,
+  "Deaths_Last_Week_Per_Million": 29.28,
+  "Deaths_New": 35,
+  "Deaths_New_Per_Million": 3.404,
+  "Deaths_Per_Cases": 0.007,
+  "Deaths_Per_Cases_Last_Week": 0.003,
+  "Deaths_Per_Million": 2029,
   "Population": 10276617
  }
 ]
