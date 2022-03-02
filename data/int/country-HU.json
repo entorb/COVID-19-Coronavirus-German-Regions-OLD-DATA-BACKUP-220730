@@ -16101,7 +16101,6 @@
   "Cases_New": 0,
   "Cases_New_Per_Million": 0,
   "Cases_Per_Million": 182128,
-  "Country": "Hungary",
   "Date": "2022-02-27",
   "Days_Since_2nd_Death": 709,
   "Deaths": 43752,
@@ -16112,7 +16111,29 @@
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.025,
   "Deaths_Per_Cases_Last_Week": 0.021,
-  "Deaths_Per_Million": 4478,
+  "Deaths_Per_Million": 4478
+ },
+ {
+  "Cases": 1787544,
+  "Cases_Last_Week": 27859,
+  "Cases_Last_Week_7Day_Percent": -34.6,
+  "Cases_Last_Week_Per_100000": 285.1,
+  "Cases_Last_Week_Per_Million": 2851,
+  "Cases_New": 8370,
+  "Cases_New_Per_Million": 856,
+  "Cases_Per_Million": 182985,
+  "Country": "Hungary",
+  "Date": "2022-02-28",
+  "Days_Since_2nd_Death": 710,
+  "Deaths": 43949,
+  "Deaths_Last_Week": 650,
+  "Deaths_Last_Week_7Day_Percent": -2.7,
+  "Deaths_Last_Week_Per_Million": 66.54,
+  "Deaths_New": 197,
+  "Deaths_New_Per_Million": 20.166,
+  "Deaths_Per_Cases": 0.025,
+  "Deaths_Per_Cases_Last_Week": 0.023,
+  "Deaths_Per_Million": 4498,
   "Population": 9772756
  }
 ]
