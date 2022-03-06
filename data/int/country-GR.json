@@ -16185,7 +16185,6 @@
   "Cases_New": 15783,
   "Cases_New_Per_Million": 1471,
   "Cases_Per_Million": 230265,
-  "Country": "Greece",
   "Date": "2022-03-03",
   "Days_Since_2nd_Death": 719,
   "Deaths": 26036,
@@ -16196,7 +16195,29 @@
   "Deaths_New_Per_Million": 5.966,
   "Deaths_Per_Cases": 0.011,
   "Deaths_Per_Cases_Last_Week": 0.004,
-  "Deaths_Per_Million": 2426,
+  "Deaths_Per_Million": 2426
+ },
+ {
+  "Cases": 2486262,
+  "Cases_Last_Week": 100958,
+  "Cases_Last_Week_7Day_Percent": -9.3,
+  "Cases_Last_Week_Per_100000": 941.0,
+  "Cases_Last_Week_Per_Million": 9410,
+  "Cases_New": 16050,
+  "Cases_New_Per_Million": 1496,
+  "Cases_Per_Million": 231761,
+  "Country": "Greece",
+  "Date": "2022-03-04",
+  "Days_Since_2nd_Death": 720,
+  "Deaths": 26092,
+  "Deaths_Last_Week": 424,
+  "Deaths_Last_Week_7Day_Percent": -12.6,
+  "Deaths_Last_Week_Per_Million": 39.52,
+  "Deaths_New": 56,
+  "Deaths_New_Per_Million": 5.22,
+  "Deaths_Per_Cases": 0.01,
+  "Deaths_Per_Cases_Last_Week": 0.004,
+  "Deaths_Per_Million": 2432,
   "Population": 10768477
  }
 ]
