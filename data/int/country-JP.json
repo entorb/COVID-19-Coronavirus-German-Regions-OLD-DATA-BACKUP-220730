@@ -16269,7 +16269,6 @@
   "Cases_New": 37002,
   "Cases_New_Per_Million": 292,
   "Cases_Per_Million": 42931,
-  "Country": "Japan",
   "Date": "2022-03-07",
   "Days_Since_2nd_Death": 748,
   "Deaths": 25068,
@@ -16280,7 +16279,29 @@
   "Deaths_New_Per_Million": 0.948,
   "Deaths_Per_Cases": 0.005,
   "Deaths_Per_Cases_Last_Week": 0.003,
-  "Deaths_Per_Million": 198,
+  "Deaths_Per_Million": 198
+ },
+ {
+  "Cases": 5486083,
+  "Cases_Last_Week": 414834,
+  "Cases_Last_Week_7Day_Percent": -9.7,
+  "Cases_Last_Week_Per_100000": 327.8,
+  "Cases_Last_Week_Per_Million": 3278,
+  "Cases_New": 53938,
+  "Cases_New_Per_Million": 426,
+  "Cases_Per_Million": 43358,
+  "Country": "Japan",
+  "Date": "2022-03-08",
+  "Days_Since_2nd_Death": 749,
+  "Deaths": 25317,
+  "Deaths_Last_Week": 1412,
+  "Deaths_Last_Week_7Day_Percent": -9.8,
+  "Deaths_Last_Week_Per_Million": 11.16,
+  "Deaths_New": 249,
+  "Deaths_New_Per_Million": 1.968,
+  "Deaths_Per_Cases": 0.005,
+  "Deaths_Per_Cases_Last_Week": 0.003,
+  "Deaths_Per_Million": 200,
   "Population": 126150000
  }
 ]
