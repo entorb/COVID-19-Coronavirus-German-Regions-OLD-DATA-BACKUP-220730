@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	25882	190	197313	1448	17.1	85.7
 Saarlouis (Landkreis)	Saarland	193732	45287	220	233761	1135	11.1	85.2	13.5
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	26939	175	190171	1235	6.9	92.5	
 St. Wendel (Landkreis)	Saarland	86458	16785	140	194140	1619	21.4	92.9	9.6
-Berlin Reinickendorf (Bezirk)	Berlin	259720	59203	378	227949	1455	10.9	87.8	9.6
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	67894	365	214702	1154	10.9	87.8	7.8
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	55897	287	204756	1051	10.9	87.8	11.7
-Berlin Pankow (Bezirk)	Berlin	404187	92122	271	227919	670	10.9	87.8	11.4
-Berlin Neukölln (Bezirk)	Berlin	318509	84875	494	266475	1550	10.9	87.8	13.6
-Berlin Lichtenberg (Bezirk)	Berlin	292005	61628	314	211051	1075	10.9	87.8	7.7
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	48852	312	178242	1138	10.9	87.8	21.3
-Berlin Spandau (Bezirk)	Berlin	239374	58183	307	243063	1282	10.9	87.8	28.0
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	58141	467	199170	1599	10.9	87.8	17.1
-Berlin Mitte (Bezirk)	Berlin	374581	99326	393	265165	1049	10.9	87.8	8.8
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	76122	195	272633	698	10.9	87.8	18.3
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	77118	536	225956	1570	10.9	87.8	10.8
+Berlin Reinickendorf (Bezirk)	Berlin	259720	59203	378	227949	1455	11.1	87.8	9.6
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	67894	365	214702	1154	11.1	87.8	7.8
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	55897	287	204756	1051	11.1	87.8	11.7
+Berlin Pankow (Bezirk)	Berlin	404187	92122	271	227919	670	11.1	87.8	11.4
+Berlin Neukölln (Bezirk)	Berlin	318509	84875	494	266475	1550	11.1	87.8	13.6
+Berlin Lichtenberg (Bezirk)	Berlin	292005	61628	314	211051	1075	11.1	87.8	7.7
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	48852	312	178242	1138	11.1	87.8	21.3
+Berlin Spandau (Bezirk)	Berlin	239374	58183	307	243063	1282	11.1	87.8	28.0
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	58141	467	199170	1599	11.1	87.8	17.1
+Berlin Mitte (Bezirk)	Berlin	374581	99326	393	265165	1049	11.1	87.8	8.8
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	76122	195	272633	698	11.1	87.8	18.3
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	77118	536	225956	1570	11.1	87.8	10.8
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	16077	146	223167	2026	6.0	83.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	29039	283	294235	2867	7.1	88.2	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	14320	176	251161	3086	8.3	83.3	
@@ -237,7 +237,7 @@ Werra-Meißner-Kreis (Landkreis)	Hessen	100046	15504	196	154968	1959	3.4	62.1	16
 Koblenz (Kreisfreie Stadt)	Rheinland-Pfalz	113388	21734	181	191678	1596	5.9	78.4	
 Ahrweiler (Landkreis)	Rheinland-Pfalz	130479	21900	89	167843	682	13.3	86.7	51.7
 Altenkirchen (Westerwald) (Landkreis)	Rheinland-Pfalz	129087	22106	127	171248	983	13.3	46.7	24.2
-Bad Kreuznach (Landkreis)	Rheinland-Pfalz	158746	31033	160	195488	1007	2.2	67.4	24.2
+Bad Kreuznach (Landkreis)	Rheinland-Pfalz	158746	31033	160	195488	1007	6.5	67.4	24.2
 Birkenfeld (Landkreis)	Rheinland-Pfalz	80830	15022	141	185846	1744	10.0	90.0	7.4
 Cochem-Zell (Landkreis)	Rheinland-Pfalz	61578	10739	88	174396	1429	16.7	100.0	
 Mayen-Koblenz (Landkreis)	Rheinland-Pfalz	214786	37427	214	174252	996	8.6	71.4	
@@ -289,7 +289,7 @@ Karlsruhe (Landkreis)	Baden-Württemberg	446852	101573	628	227307	1405	13.0	82.6
 Rastatt (Landkreis)	Baden-Württemberg	232091	56652	340	244093	1464	0.0	100.0	40.5
 Heidelberg (Stadtkreis)	Baden-Württemberg	158741	29528	90	186013	566	7.6	93.3	
 Mannheim (Stadtkreis)	Baden-Württemberg	309721	73972	454	238834	1465	14.2	88.7	
-Neckar-Odenwald-Kreis (Landkreis)	Baden-Württemberg	143797	34188	195	237751	1356	38.1	85.7	
+Neckar-Odenwald-Kreis (Landkreis)	Baden-Württemberg	143797	34188	195	237751	1356	23.8	85.7	
 Rhein-Neckar-Kreis (Landkreis)	Baden-Württemberg	548233	117304	606	213967	1105	12.5	85.0	
 Pforzheim (Stadtkreis)	Baden-Württemberg	126016	34870	310	276710	2460	8.8	87.7	7.1
 Calw (Landkreis)	Baden-Württemberg	160149	39687	260	247812	1623	4.3	69.6	
