@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	26177	190	199562	1448	11.4	80.0
 Saarlouis (Landkreis)	Saarland	193732	46440	221	239712	1140	13.0	72.2	16.4
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	27253	175	192388	1235	4.6	82.1	
 St. Wendel (Landkreis)	Saarland	86458	17124	140	198061	1619	21.4	85.7	17.1
-Berlin Reinickendorf (Bezirk)	Berlin	259720	59437	378	228850	1455	10.3	84.2	21.5
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	68112	365	215392	1154	10.3	84.2	18.8
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	55897	287	204756	1051	10.3	84.2	31.3
-Berlin Pankow (Bezirk)	Berlin	404187	92122	271	227919	670	10.3	84.2	
-Berlin Neukölln (Bezirk)	Berlin	318509	84875	494	266475	1550	10.3	84.2	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	61628	314	211051	1075	10.3	84.2	21.8
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	48852	312	178242	1138	10.3	84.2	
-Berlin Spandau (Bezirk)	Berlin	239374	58342	307	243727	1282	10.3	84.2	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	58174	467	199284	1599	10.3	84.2	
-Berlin Mitte (Bezirk)	Berlin	374581	99330	393	265176	1049	10.3	84.2	28.5
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	76123	195	272637	698	10.3	84.2	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	77118	536	225956	1570	10.3	84.2	28.5
+Berlin Reinickendorf (Bezirk)	Berlin	259720	59437	378	228850	1455	10.0	84.3	21.5
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	68112	365	215392	1154	10.0	84.3	18.8
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	55897	287	204756	1051	10.0	84.3	31.3
+Berlin Pankow (Bezirk)	Berlin	404187	92122	271	227919	670	10.0	84.3	
+Berlin Neukölln (Bezirk)	Berlin	318509	84875	494	266475	1550	10.0	84.3	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	61628	314	211051	1075	10.0	84.3	21.8
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	48852	312	178242	1138	10.0	84.3	
+Berlin Spandau (Bezirk)	Berlin	239374	58342	307	243727	1282	10.0	84.3	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	58174	467	199284	1599	10.0	84.3	
+Berlin Mitte (Bezirk)	Berlin	374581	99330	393	265176	1049	10.0	84.3	28.5
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	76123	195	272637	698	10.0	84.3	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	77118	536	225956	1570	10.0	84.3	28.5
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	16077	146	223167	2026	13.4	80.6	18.4
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	29162	283	295481	2867	3.5	85.9	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	14341	176	251530	3086	16.7	75.0	
@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258386	74700	521	289102	2016	5.3	68.4	16.0
 Nordsachsen (Landkreis)	Sachsen	197444	56051	545	283883	2760	5.6	63.0	19.4
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	17692	150	222950	1890	2.6	73.7	
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	57364	513	241162	2156	7.7	84.7	36.0
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	47647	211	202086	894	6.8	90.3	
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	47647	211	202086	894	7.0	90.1	
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	19172	137	231862	1656	13.3	73.3	9.2
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	39075	333	248541	2118	6.2	46.9	
 Börde (Landkreis)	Sachsen-Anhalt	170567	43733	197	256397	1154	38.5	61.5	16.8
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	45076	248	207605	1142	3.8	95.2
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	10442	55	195887	1031	6.7	100.0	19.3
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	6802	80	169305	1991	12.5	56.2	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	11647	109	229538	2148	10.3	89.7	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	18974	127	227345	1521	6.1	71.4	14.6
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	18974	127	227345	1521	5.8	73.1	14.6
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	5730	15	168524	441	0.0	66.7	17.5
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	23415	172	179130	1315	16.7	100.0	15.3
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	22140	198	166461	1488	0.0	73.3	25.2
