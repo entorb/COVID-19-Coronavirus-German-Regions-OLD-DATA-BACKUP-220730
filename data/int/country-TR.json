@@ -16584,7 +16584,6 @@
   "Cases_New": 17426,
   "Cases_New_Per_Million": 211,
   "Cases_Per_Million": 178891,
-  "Country": "Turkey",
   "Date": "2022-03-22",
   "Days_Since_2nd_Death": 733,
   "Deaths": 97437,
@@ -16595,7 +16594,29 @@
   "Deaths_New_Per_Million": 1.093,
   "Deaths_Per_Cases": 0.007,
   "Deaths_Per_Cases_Last_Week": 0.006,
-  "Deaths_Per_Million": 1183,
+  "Deaths_Per_Million": 1183
+ },
+ {
+  "Cases": 14743437,
+  "Cases_Last_Week": 120409,
+  "Cases_Last_Week_7Day_Percent": -26.6,
+  "Cases_Last_Week_Per_100000": 146.2,
+  "Cases_Last_Week_Per_Million": 1462,
+  "Cases_New": 17161,
+  "Cases_New_Per_Million": 208,
+  "Cases_Per_Million": 179099,
+  "Country": "Turkey",
+  "Date": "2022-03-23",
+  "Days_Since_2nd_Death": 734,
+  "Deaths": 97521,
+  "Deaths_Last_Week": 668,
+  "Deaths_Last_Week_7Day_Percent": -25.7,
+  "Deaths_Last_Week_Per_Million": 8.11,
+  "Deaths_New": 84,
+  "Deaths_New_Per_Million": 1.02,
+  "Deaths_Per_Cases": 0.007,
+  "Deaths_Per_Cases_Last_Week": 0.006,
+  "Deaths_Per_Million": 1184,
   "Population": 83154997
  }
 ]
