@@ -16710,7 +16710,6 @@
   "Cases_New": 34336,
   "Cases_New_Per_Million": 4031,
   "Cases_Per_Million": 405550,
-  "Country": "Switzerland",
   "Date": "2022-03-28",
   "Days_Since_2nd_Death": 750,
   "Deaths": 13524,
@@ -16721,7 +16720,29 @@
   "Deaths_New_Per_Million": 1.996,
   "Deaths_Per_Cases": 0.004,
   "Deaths_Per_Cases_Last_Week": 0.001,
-  "Deaths_Per_Million": 1587,
+  "Deaths_Per_Million": 1587
+ },
+ {
+  "Cases": 3468289,
+  "Cases_Last_Week": 114535,
+  "Cases_Last_Week_7Day_Percent": -37.3,
+  "Cases_Last_Week_Per_100000": 1344.8,
+  "Cases_Last_Week_Per_Million": 13448,
+  "Cases_New": 14404,
+  "Cases_New_Per_Million": 1691,
+  "Cases_Per_Million": 407241,
+  "Country": "Switzerland",
+  "Date": "2022-03-29",
+  "Days_Since_2nd_Death": 751,
+  "Deaths": 13534,
+  "Deaths_Last_Week": 78,
+  "Deaths_Last_Week_7Day_Percent": -51.9,
+  "Deaths_Last_Week_Per_Million": 9.16,
+  "Deaths_New": 10,
+  "Deaths_New_Per_Million": 1.174,
+  "Deaths_Per_Cases": 0.004,
+  "Deaths_Per_Cases_Last_Week": 0.001,
+  "Deaths_Per_Million": 1589,
   "Population": 8570146
  }
 ]
