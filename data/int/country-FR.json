@@ -17025,7 +17025,6 @@
   "Cases_New": 190762,
   "Cases_New_Per_Million": 2847,
   "Cases_Per_Million": 408334,
-  "Country": "France",
   "Date": "2022-04-12",
   "Days_Since_2nd_Death": 776,
   "Deaths": 144662,
@@ -17036,7 +17035,29 @@
   "Deaths_New_Per_Million": 2.374,
   "Deaths_Per_Cases": 0.005,
   "Deaths_Per_Cases_Last_Week": 0.001,
-  "Deaths_Per_Million": 2159,
+  "Deaths_Per_Million": 2159
+ },
+ {
+  "Cases": 27499728,
+  "Cases_Last_Week": 920280,
+  "Cases_Last_Week_7Day_Percent": -2.7,
+  "Cases_Last_Week_Per_100000": 1373.8,
+  "Cases_Last_Week_Per_Million": 13738,
+  "Cases_New": 146503,
+  "Cases_New_Per_Million": 2187,
+  "Cases_Per_Million": 410521,
+  "Country": "France",
+  "Date": "2022-04-13",
+  "Days_Since_2nd_Death": 777,
+  "Deaths": 144814,
+  "Deaths_Last_Week": 865,
+  "Deaths_Last_Week_7Day_Percent": 10.8,
+  "Deaths_Last_Week_Per_Million": 12.91,
+  "Deaths_New": 152,
+  "Deaths_New_Per_Million": 2.269,
+  "Deaths_Per_Cases": 0.005,
+  "Deaths_Per_Cases_Last_Week": 0.001,
+  "Deaths_Per_Million": 2161,
   "Population": 67022000
  }
 ]
