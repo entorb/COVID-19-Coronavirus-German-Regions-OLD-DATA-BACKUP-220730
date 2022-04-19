@@ -17109,7 +17109,6 @@
   "Cases_New": 93001,
   "Cases_New_Per_Million": 1801,
   "Cases_Per_Million": 315787,
-  "Country": "South Korea",
   "Date": "2022-04-16",
   "Days_Since_2nd_Death": 785,
   "Deaths": 21092,
@@ -17120,7 +17119,29 @@
   "Deaths_New_Per_Million": 3.931,
   "Deaths_Per_Cases": 0.001,
   "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 408,
+  "Deaths_Per_Million": 408
+ },
+ {
+  "Cases": 16353495,
+  "Cases_Last_Week": 928897,
+  "Cases_Last_Week_7Day_Percent": -34.7,
+  "Cases_Last_Week_Per_100000": 1798.9,
+  "Cases_Last_Week_Per_Million": 17989,
+  "Cases_New": 47743,
+  "Cases_New_Per_Million": 924,
+  "Cases_Per_Million": 316711,
+  "Country": "South Korea",
+  "Date": "2022-04-17",
+  "Days_Since_2nd_Death": 786,
+  "Deaths": 21224,
+  "Deaths_Last_Week": 1545,
+  "Deaths_Last_Week_7Day_Percent": -30.6,
+  "Deaths_Last_Week_Per_Million": 29.92,
+  "Deaths_New": 132,
+  "Deaths_New_Per_Million": 2.556,
+  "Deaths_Per_Cases": 0.001,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 411,
   "Population": 51709098
  }
 ]
