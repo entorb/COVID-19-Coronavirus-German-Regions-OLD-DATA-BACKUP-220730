@@ -19285,5 +19285,28 @@
   "Deaths_Per_Cases": 0.005,
   "Deaths_Per_Cases_Last_Week": null,
   "Deaths_Per_Million": 1722
+ },
+ {
+  "Cases": 55715,
+  "Cases_Last_Week": 1286,
+  "Cases_Last_Week_7Day_Percent": -32.8,
+  "Cases_Last_Week_Per_100000": 871.8,
+  "Cases_Last_Week_Per_Million": 8718,
+  "Cases_New": 0,
+  "Cases_New_Per_Million": 0,
+  "Cases_Per_Million": 377736,
+  "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.8,
+  "DIVI_Intensivstationen_Covid_Prozent": 12.5,
+  "Date": "2022-04-30",
+  "Days_Since_2nd_Death": 772,
+  "Deaths": 254,
+  "Deaths_Last_Week": 0,
+  "Deaths_Last_Week_7Day_Percent": -100.0,
+  "Deaths_Last_Week_Per_Million": 0.0,
+  "Deaths_New": 0,
+  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Per_Cases": 0.005,
+  "Deaths_Per_Cases_Last_Week": null,
+  "Deaths_Per_Million": 1722
  }
 ]
