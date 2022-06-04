@@ -18075,7 +18075,6 @@
   "Cases_New": 0,
   "Cases_New_Per_Million": 0,
   "Cases_Per_Million": 197930,
-  "Country": "Finland",
   "Date": "2022-06-01",
   "Days_Since_2nd_Death": 809,
   "Deaths": 4522,
@@ -18086,7 +18085,29 @@
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.004,
   "Deaths_Per_Cases_Last_Week": 0.011,
-  "Deaths_Per_Million": 819,
+  "Deaths_Per_Million": 819
+ },
+ {
+  "Cases": 1105211,
+  "Cases_Last_Week": 13018,
+  "Cases_Last_Week_7Day_Percent": 18.7,
+  "Cases_Last_Week_Per_100000": 235.9,
+  "Cases_Last_Week_Per_Million": 2359,
+  "Cases_New": 13018,
+  "Cases_New_Per_Million": 2359,
+  "Cases_Per_Million": 200290,
+  "Country": "Finland",
+  "Date": "2022-06-02",
+  "Days_Since_2nd_Death": 810,
+  "Deaths": 4627,
+  "Deaths_Last_Week": 105,
+  "Deaths_Last_Week_7Day_Percent": -9.5,
+  "Deaths_Last_Week_Per_Million": 19.03,
+  "Deaths_New": 105,
+  "Deaths_New_Per_Million": 19.028,
+  "Deaths_Per_Cases": 0.004,
+  "Deaths_Per_Cases_Last_Week": 0.008,
+  "Deaths_Per_Million": 838,
   "Population": 5521158
  }
 ]
