@@ -45,7 +45,7 @@ KY	CYM	136	CJ	Cayman Islands	George Town	262.0	64174	NA	.ky	KYD	Dollar	+1-345			
 CF	CAF	140	CT	Central African Republic	Bangui	622984.0	4666377	AF	.cf	XAF	Franc	236			fr-CF,sg,ln,kg	239880	TD,SD,CD,SS,CM,CG	
 TD	TCD	148	CD	Chad	N'Djamena	1284000.0	15477751	AF	.td	XAF	Franc	235			fr-TD,ar-TD,sre	2434508	NE,LY,CF,SD,CM,NG	
 CL	CHL	152	CI	Chile	Santiago	756950.0	18729160	SA	.cl	CLP	Peso	56	#######	^(\d{7})$	es-CL	3895114	PE,BO,AR	
-CN	CHN	156	CH	China	Beijing	9596960.0	1392730000	AS	.cn	CNY	Yuan Renminbi	86	######	^(\d{6})$	zh-CN,yue,wuu,dta,ug,za	1814991	LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN	
+CN	CHN	156	CH	China	Beijing	9596960.0	1411778724	AS	.cn	CNY	Yuan Renminbi	86	######	^(\d{6})$	zh-CN,yue,wuu,dta,ug,za	1814991	LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN	
 CX	CXR	162	KT	Christmas Island	Flying Fish Cove	135.0	1500	OC	.cx	AUD	Dollar	61	####	^(\d{4})$	en,zh,ms-CC	2078138		
 CC	CCK	166	CK	Cocos Islands	West Island	14.0	628	AS	.cc	AUD	Dollar	61			ms-CC,en	1547376		
 CO	COL	170	CO	Colombia	Bogota	1138910.0	49648685	SA	.co	COP	Peso	57	######	^(\d{6})$	es-CO	3686110	EC,PE,PA,BR,VE	
@@ -65,7 +65,7 @@ DO	DOM	214	DR	Dominican Republic	Santo Domingo	48730.0	10627165	NA	.do	DOP	Peso	
 EC	ECU	218	EC	Ecuador	Quito	283560.0	17084357	SA	.ec	USD	Dollar	593	@####@	^([a-zA-Z]\d{4}[a-zA-Z])$	es-EC	3658394	PE,CO	
 EG	EGY	818	EG	Egypt	Cairo	1001450.0	98423595	AF	.eg	EGP	Pound	20	#####	^(\d{5})$	ar-EG,en,fr	357994	LY,SD,IL,PS	
 SV	SLV	222	ES	El Salvador	San Salvador	21040.0	6420744	NA	.sv	USD	Dollar	503	CP ####	^(?:CP)*(\d{4})$	es-SV	3585968	GT,HN	
-GQ	GNQ	226	EK	Equatorial Guinea	Malabo	28051.0	1308974	AF	.gq	XAF	Franc	240			es-GQ,fr	2309096	GA,CM	
+GQ	GNQ	226	EK	Equatorial Guinea	Malabo	28051.0	1308974	AF	.gq	XAF	Franc	240			es-GQ,fr,pt	2309096	GA,CM	
 ER	ERI	232	ER	Eritrea	Asmara	121320.0	5750433	AF	.er	ERN	Nakfa	291			aa-ER,ar,tig,kun,ti-ER	338010	ET,SD,DJ	
 EE	EST	233	EN	Estonia	Tallinn	45226.0	1320884	EU	.ee	EUR	Euro	372	#####	^(\d{5})$	et,ru	453733	RU,LV	
 SZ	SWZ	748	WZ	Eswatini	Mbabane	17363.0	1136191	AF	.sz	SZL	Lilangeni	268	@###	^([A-Z]\d{3})$	en-SZ,ss-SZ	934841	ZA,MZ	
@@ -139,7 +139,7 @@ MH	MHL	584	RM	Marshall Islands	Majuro	181.3	58413	OC	.mh	USD	Dollar	692	#####-##
 MQ	MTQ	474	MB	Martinique	Fort-de-France	1100.0	432900	NA	.mq	EUR	Euro	596	#####	^(\d{5})$	fr-MQ	3570311		
 MR	MRT	478	MR	Mauritania	Nouakchott	1030700.0	4403319	AF	.mr	MRU	Ouguiya	222			ar-MR,fuc,snk,fr,mey,wo	2378080	SN,DZ,EH,ML	
 MU	MUS	480	MP	Mauritius	Port Louis	2040.0	1265303	AF	.mu	MUR	Rupee	230			en-MU,bho,fr	934292		
-YT	MYT	175	MF	Mayotte	Mamoudzou	374.0	159042	AF	.yt	EUR	Euro	262	#####	^(\d{5})$	fr-YT	1024031		
+YT	MYT	175	MF	Mayotte	Mamoudzou	374.0	279471	AF	.yt	EUR	Euro	262	#####	^(\d{5})$	fr-YT	1024031		
 MX	MEX	484	MX	Mexico	Mexico City	1972550.0	126190788	NA	.mx	MXN	Peso	52	#####	^(\d{5})$	es-MX	3996063	GT,US,BZ	
 FM	FSM	583	FM	Micronesia	Palikir	702.0	112640	OC	.fm	USD	Dollar	691	#####	^(\d{5})$	en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg	2081918		
 MD	MDA	498	MD	Moldova	Chisinau	33843.0	3545883	EU	.md	MDL	Leu	373	MD-####	^MD-\d{4}$	ro,ru,gag,tr	617790	RO,UA	
@@ -173,7 +173,7 @@ PS	PSE	275	WE	Palestinian Territory	East Jerusalem	5970.0	4569087	AS	.ps	ILS	She
 PA	PAN	591	PM	Panama	Panama City	78200.0	4176873	NA	.pa	PAB	Balboa	507			es-PA,en	3703430	CR,CO	
 PG	PNG	598	PP	Papua New Guinea	Port Moresby	462840.0	8606316	OC	.pg	PGK	Kina	675	###	^(\d{3})$	en-PG,ho,meu,tpi	2088628	ID	
 PY	PRY	600	PA	Paraguay	Asuncion	406750.0	6956071	SA	.py	PYG	Guarani	595	####	^(\d{4})$	es-PY,gn	3437598	BO,BR,AR	
-PE	PER	604	PE	Peru	Lima	1285220.0	31989256	SA	.pe	PEN	Sol	51			es-PE,qu,ay	3932488	EC,CL,BO,BR,CO	
+PE	PER	604	PE	Peru	Lima	1285220.0	31989256	SA	.pe	PEN	Sol	51	#####	^(\d{5})$	es-PE,qu,ay	3932488	EC,CL,BO,BR,CO	
 PH	PHL	608	RP	Philippines	Manila	300000.0	106651922	AS	.ph	PHP	Peso	63	####	^(\d{4})$	tl,en-PH,fil,ceb,tgl,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx	1694008		
 PN	PCN	612	PC	Pitcairn	Adamstown	47.0	46	OC	.pn	NZD	Dollar	870			en-PN	4030699		
 PL	POL	616	PL	Poland	Warsaw	312685.0	37978548	EU	.pl	PLN	Zloty	48	##-###	^\d{2}-\d{3}$	pl	798544	DE,LT,SK,CZ,BY,UA,RU	
@@ -219,7 +219,7 @@ SJ	SJM	744	SV	Svalbard and Jan Mayen	Longyearbyen	62049.0	2550	EU	.sj	NOK	Krone	
 SE	SWE	752	SW	Sweden	Stockholm	449964.0	10183175	EU	.se	SEK	Krona	46	### ##	^(?:SE)?\d{3}\s\d{2}$	sv-SE,se,sma,fi-SE	2661886	NO,FI	
 CH	CHE	756	SZ	Switzerland	Bern	41290.0	8516543	EU	.ch	CHF	Franc	41	####	^(\d{4})$	de-CH,fr-CH,it-CH,rm	2658434	DE,IT,LI,FR,AT	
 SY	SYR	760	SY	Syria	Damascus	185180.0	16906283	AS	.sy	SYP	Pound	963			ar-SY,ku,hy,arc,fr,en	163843	IQ,JO,IL,TR,LB	
-TW	TWN	158	TW	Taiwan	Taipei	35980.0	22894384	AS	.tw	TWD	Dollar	886	#####	^(\d{5})$	zh-TW,zh,nan,hak	1668284		
+TW	TWN	158	TW	Taiwan	Taipei	35980.0	23451837	AS	.tw	TWD	Dollar	886	#####	^(\d{5})$	zh-TW,zh,nan,hak	1668284		
 TJ	TJK	762	TI	Tajikistan	Dushanbe	143100.0	9100837	AS	.tj	TJS	Somoni	992	######	^(\d{6})$	tg,ru	1220409	CN,AF,KG,UZ	
 TZ	TZA	834	TZ	Tanzania	Dodoma	945087.0	56318348	AF	.tz	TZS	Shilling	255			sw-TZ,en,ar	149590	MZ,KE,CD,RW,ZM,BI,UG,MW	
 TH	THA	764	TH	Thailand	Bangkok	514000.0	69428524	AS	.th	THB	Baht	66	#####	^(\d{5})$	th,en	1605651	LA,MM,KH,MY	
