@@ -18369,7 +18369,6 @@
   "Cases_New": 0,
   "Cases_New_Per_Million": 0,
   "Cases_Per_Million": 365734,
-  "Country": "Belgium",
   "Date": "2022-06-15",
   "Days_Since_2nd_Death": 826,
   "Deaths": 31835,
@@ -18380,7 +18379,29 @@
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.008,
   "Deaths_Per_Cases_Last_Week": 0.003,
-  "Deaths_Per_Million": 2787,
+  "Deaths_Per_Million": 2787
+ },
+ {
+  "Cases": 4187940,
+  "Cases_Last_Week": 17688,
+  "Cases_Last_Week_7Day_Percent": 53.8,
+  "Cases_Last_Week_Per_100000": 154.8,
+  "Cases_Last_Week_Per_Million": 1548,
+  "Cases_New": 10500,
+  "Cases_New_Per_Million": 919,
+  "Cases_Per_Million": 366653,
+  "Country": "Belgium",
+  "Date": "2022-06-16",
+  "Days_Since_2nd_Death": 827,
+  "Deaths": 31856,
+  "Deaths_Last_Week": 40,
+  "Deaths_Last_Week_7Day_Percent": -16.7,
+  "Deaths_Last_Week_Per_Million": 3.5,
+  "Deaths_New": 21,
+  "Deaths_New_Per_Million": 1.839,
+  "Deaths_Per_Cases": 0.008,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 2788,
   "Population": 11515793
  }
 ]
