@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258386	98689	537	381944	2078	0.0	66.7	23.0
 Nordsachsen (Landkreis)	Sachsen	197444	73710	637	373321	3226	1.8	64.3	
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	24940	162	314287	2041	5.0	70.0	22.6
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	79668	582	334929	2446	0.0	83.8	14.7
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	67182	216	284941	916	1.6	93.8	17.5
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	67182	216	284941	916	1.0	93.8	17.5
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	28864	147	349075	1777	7.1	92.9	16.5
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	54238	398	344988	2531	0.0	61.3	
 Börde (Landkreis)	Sachsen-Anhalt	170567	59244	215	347335	1260	0.0	80.0	
@@ -172,7 +172,7 @@ Viersen (Kreis)	Nordrhein-Westfalen	298536	89078	383	298382	1282	3.2	96.8	24.6
 Wesel (Kreis)	Nordrhein-Westfalen	460113	133636	446	290441	969	8.7	77.2	
 Bonn (Kreisfreie Stadt)	Nordrhein-Westfalen	330579	101146	408	305966	1234	5.1	96.0	34.4
 Köln (Kreisfreie Stadt)	Nordrhein-Westfalen	1083498	372276	1070	343587	987	4.2	93.3	
-Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163905	52796	176	322113	1073	0.0	90.6	18.2
+Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163905	52796	176	322113	1073	1.6	90.6	18.2
 Städteregion Aachen (Kreis)	Nordrhein-Westfalen	556631	177688	869	319220	1561	1.2	93.4	25.4
 Düren (Kreis)	Nordrhein-Westfalen	265140	91516	428	345161	1614	10.0	86.7	12.2
 Rhein-Erft-Kreis (Kreis)	Nordrhein-Westfalen	469611	155530	566	331189	1205	7.3	87.3	
@@ -248,7 +248,7 @@ Westerwaldkreis (Landkreis)	Rheinland-Pfalz	202830	61925	239	305304	1178	4.3	65.
 Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110674	31082	60	280842	542	2.5	72.5	13.2
 Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	112685	29847	116	264871	1029	4.5	77.3	25.2
 Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	100055	25394	50	253800	499	6.7	86.7	13.2
-Vulkaneifel (Landkreis)	Rheinland-Pfalz	60491	20967	89	346613	1471	7.7	92.3	17.1
+Vulkaneifel (Landkreis)	Rheinland-Pfalz	60491	20967	89	346613	1471	0.0	76.9	17.1
 Trier-Saarburg (Landkreis)	Rheinland-Pfalz	150533	41944	135	278636	896	7.1	71.4	19.1
 Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48750	14943	88	306523	1805	9.1	81.8	
 Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99662	32148	229	322570	2297	0.0	88.0	11.6
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	71047	258	327220	1188	4.7	93.4	1
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	15872	64	297752	1200	5.9	88.2	26.2
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	10816	97	269215	2414	6.7	66.7	9.1
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	17077	116	336552	2286	4.5	90.9	37.2
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	27475	144	329203	1725	0.0	84.2	10.0
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	27475	144	329203	1725	0.0	87.7	10.0
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	9497	27	279315	794	0.0	66.7	9.4
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	39073	198	298917	1514	14.3	71.4	9.5
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	36006	222	270713	1669	12.5	81.2	13.2
@@ -312,7 +312,7 @@ Ulm (Stadtkreis)	Baden-Württemberg	126405	44882	117	355065	925	3.0	88.7	21.3
 Alb-Donau-Kreis (Landkreis)	Baden-Württemberg	198204	71210	243	359276	1226	8.3	75.0	17.0
 Biberach (Landkreis)	Baden-Württemberg	202250	77219	289	381799	1428	0.0	93.8	9.8
 Bodenseekreis (Landkreis)	Baden-Württemberg	217901	74030	337	339741	1546	5.6	64.8	9.9
-Ravensburg (Landkreis)	Baden-Württemberg	285888	103795	224	363061	783	7.8	75.0	12.8
+Ravensburg (Landkreis)	Baden-Württemberg	285888	103795	224	363061	783	8.1	74.2	12.8
 Sigmaringen (Landkreis)	Baden-Württemberg	130946	52157	172	398309	1313	0.0	33.3	11.0
 Ingolstadt (Kreisfreie Stadt)	Bayern	136952	52151	246	380797	1796	0.0	84.0	
 München (Kreisfreie Stadt)	Bayern	1488202	547177	2043	367676	1372	5.1	93.1	9.5
