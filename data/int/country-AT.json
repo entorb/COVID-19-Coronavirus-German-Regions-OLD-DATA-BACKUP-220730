@@ -18978,7 +18978,6 @@
   "Cases_New": 15083,
   "Cases_New_Per_Million": 1704,
   "Cases_Per_Million": 520636,
-  "Country": "Austria",
   "Date": "2022-07-14",
   "Days_Since_2nd_Death": 850,
   "Deaths": 20156,
@@ -18989,7 +18988,29 @@
   "Deaths_New_Per_Million": 0.452,
   "Deaths_Per_Cases": 0.004,
   "Deaths_Per_Cases_Last_Week": 0.001,
-  "Deaths_Per_Million": 2278,
+  "Deaths_Per_Million": 2278
+ },
+ {
+  "Cases": 4618853,
+  "Cases_Last_Week": 76825,
+  "Cases_Last_Week_7Day_Percent": 8.4,
+  "Cases_Last_Week_Per_100000": 868.3,
+  "Cases_Last_Week_Per_Million": 8683,
+  "Cases_New": 12761,
+  "Cases_New_Per_Million": 1442,
+  "Cases_Per_Million": 522079,
+  "Country": "Austria",
+  "Date": "2022-07-15",
+  "Days_Since_2nd_Death": 851,
+  "Deaths": 20163,
+  "Deaths_Last_Week": 64,
+  "Deaths_Last_Week_7Day_Percent": 52.4,
+  "Deaths_Last_Week_Per_Million": 7.23,
+  "Deaths_New": 7,
+  "Deaths_New_Per_Million": 0.791,
+  "Deaths_Per_Cases": 0.004,
+  "Deaths_Per_Cases_Last_Week": 0.001,
+  "Deaths_Per_Million": 2279,
   "Population": 8902600
  }
 ]
